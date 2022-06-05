@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tsx-random-quotes/static/css/main.b0d82ec6.css",
+    "main.js": "/tsx-random-quotes/static/js/main.fd3eeb15.js",
+    "index.html": "/tsx-random-quotes/index.html",
+    "main.b0d82ec6.css.map": "/tsx-random-quotes/static/css/main.b0d82ec6.css.map",
+    "main.fd3eeb15.js.map": "/tsx-random-quotes/static/js/main.fd3eeb15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0d82ec6.css",
+    "static/js/main.fd3eeb15.js"
+  ]
+}
